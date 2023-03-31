@@ -1,6 +1,6 @@
 Name:		texlive-bxpapersize
 Version:	63174
-Release:	1
+Release:	2
 Summary:	Synchronize output paper size with layout paper size
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxpapersize
