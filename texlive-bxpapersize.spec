@@ -3,7 +3,7 @@ Version:	63174
 Release:	2
 Summary:	Synchronize output paper size with layout paper size
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxpapersize
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bxpapersize
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxpapersize.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxpapersize.doc.r%{version}.tar.xz
